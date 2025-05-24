@@ -7,7 +7,7 @@ This project aims to train a neural network using tensorflow for image recogniti
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/Krishg21)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-gupta-603796358/)
 
 
 ## 🛠 Skills
